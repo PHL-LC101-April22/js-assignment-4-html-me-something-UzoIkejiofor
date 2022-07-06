@@ -21,16 +21,15 @@ img{
 figcaption {
     text-align: center;
     font-style: italic;
+    color: green;
 }
 #mainHeading {
     color: red;
     font-size: 40px;
 }
 
-element {
+.funParagraph{
     color: green;
 }
 
-.funParagraph {
-    color: green;
-}
+
